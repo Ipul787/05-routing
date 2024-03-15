@@ -42,4 +42,20 @@ Output:
 
 ## Practicum 2
 
+This practicum tackles the problem of nested routing. This is done if a link is clicked on a website it will direct the user to the page inside the nested route. The content of the website could be represented in the following screenshots. 
 
+Codes: 
+
+![Screenshot](assets/07.png)
+
+![Screenshot](assets/08.png)
+
+![Screenshot](assets/09.png)
+
+Output: 
+
+![Screenshot](assets/10.png)
+
+![Screenshot](assets/11.png)
+
+![Screenshot](assets/12.png)
