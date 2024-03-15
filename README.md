@@ -20,17 +20,26 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Practicum 1
 
-To learn more about Next.js, take a look at the following resources:
+This practicum goes through the way of how to make a simple router on Next.js. We begin by cloning a Github repository and running it on a local development server. Then, we make "home" and "about" page, continued by making "profile" page. The code and the result is as follows. 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Codes: 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Screenshot](assets/05.png)
 
-## Deploy on Vercel
+![Screenshot](assets/01.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Screenshot](assets/04.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Output: 
+
+![Screenshot](assets/03.png)
+
+![Screenshot](assets/02.png)
+
+![Screenshot](assets/06.png)
+
+## Practicum 2
+
+
