@@ -67,3 +67,9 @@ In this practicum, we learned about dynamic routing. Dynamic routing means that 
 ![Screenshot](assets/15.png)
 
 ![Screenshot](assets/14.png)
+
+An additional review page is added for each product by using nested and dynamic routing. 
+
+![Screenshot](assets/16.png)
+
+![Screenshot](assets/17.png)
