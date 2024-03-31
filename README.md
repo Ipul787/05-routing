@@ -73,3 +73,27 @@ An additional review page is added for each product by using nested and dynamic 
 ![Screenshot](assets/16.png)
 
 ![Screenshot](assets/17.png)
+
+## Practicum 4
+
+In this practicum, we will add navigation to the various pages using link component. It is one way for users to navigate our website easily. The code will be demonstrated as follows: 
+
+1. Start from home page
+
+![Screenshot](assets/18.png)
+
+2. Navigate to product page
+
+![Screenshot](assets/19.png)
+
+3. Go to the product details using [productId] parameter
+
+![Screenshot](assets/20.png)
+
+4. Go to review of said product
+
+![Screenshot](assets/21.png)
+
+5. Navigate to a particular review by using [reviewId] parameter
+
+![Screenshot](assets/22.png)
