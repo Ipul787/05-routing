@@ -59,3 +59,11 @@ Output:
 ![Screenshot](assets/11.png)
 
 ![Screenshot](assets/12.png)
+
+## Practicum 3
+
+In this practicum, we learned about dynamic routing. Dynamic routing means that any parameter displayed on the website can be changed based on the input/modification made to the URL. An example of it could be seen below. 
+
+![Screenshot](assets/13.png)
+
+![Screenshot](assets/14.png)
